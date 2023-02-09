@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 </p> -->
 
 <p align="left">
-<a href="https://twitter.com/fardeen_raees" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="fardeen_raees" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fardeen-raees-j" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" alt="fardeen-raees-j" height="30" width="40" /></a>
-<a href="https://instagram.com/fardeen_raees" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="fardeen_raees" height="30" width="40" /></a>
+<a href="https://twitter.com/fardeen_raees" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="fardeen_raees" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/fardeen-raees-j" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" alt="fardeen-raees-j" height="40" width="40" /></a>
+<a href="https://instagram.com/fardeen_raees" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="fardeen_raees" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
